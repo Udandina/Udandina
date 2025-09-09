@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Udandina
-- 👀 I’m interested in java
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in java and php
+- 💞️ I’m looking to collaborate on laravel
 - 📫 How to reach me udandina@yahoo.com 
 
 <!---
